@@ -1,6 +1,4 @@
 import sys
-import math as mt
-import numpy as np
 
 #check command lines arguments
 if len(sys.argv)!=6 :
