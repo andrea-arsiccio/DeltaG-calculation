@@ -22,53 +22,52 @@ Example:
 
 python3 DeltaG-calculation.py sucrose 1 310 2 3500 
 
-computes the free energies of transfer for a protein in 1M sucrose, at 310 K (modelled using approach 2 as described in [2]) and 3 bar.
+computes the free energies of transfer for a protein in 1M sucrose, at 310 K (using approach 2 as described in [2]) and 3500 bar.
 
 The output is a file DeltaG.dat in the form:
 
 
-ALA     0.71101999999996
+ALA -7.940509280346168
 
-ARG     -2.24832799999996
+ARG -19.960373360467845
 
-ASN     -2.74838799999999
+ASN -9.99407582569926
 
-ASP     -2.5626376
+ASP -9.572109106534343
 
-CYS     3.89864000000006
+CYS -9.364199656150657
 
-GLN     -1.76192
+GLN -13.07462625784209
 
-GLU     -2.38664400000002
+GLU -12.722932211587958
 
-GLY     0
+GLY 0.0
 
-HIS     -3.58152799999999
+HIS -15.096255879863905
 
-ILE     2.42634399999986
+ILE -14.636274953571094
 
-LEU     1.77233599999988
+LEU -14.441369734200844
 
-LYS     -1.92576400000002
+LYS -16.454656919057342
 
-MET     -0.262827999999956
+MET -14.530093336954897
 
-PHE     1.62028800000007
+PHE -18.306281355966355
 
-PRO     -2.15598800000001
+PRO -10.06821859745863
 
-SER     -1.60934800000004
+SER -6.040322322443721
 
-THR     -0.591559999999987
+THR -10.827620080746481
 
-TRP     1.22936000000027
+TRP -24.170822666260406
 
-TYR     0.775547999999958
+TYR -19.230771559742372
 
-VAL     2.12779200000011
+VAL -12.257909976433293
 
-
-BACKBONE        1.00066920000002
+BACKBONE -4.712050450690486
 
 
 where free energy of transfer values, in kJ/mol, are provided for each sidechain/backbone. The output is compatible for use with the SASA module of Plumed (https://www.plumed.org/doc-v2.8/user-doc/html/_s_a_s_a_m_o_d.html).
