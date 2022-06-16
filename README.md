@@ -19,7 +19,8 @@ T-approach: can be 2 or 3. Refers to the approaches for the inclusion of tempera
 P: pressure value, in bar. 
 
 Example:
-./DeltaG-calculation.py sucrose 1 310 2 3 
+
+python3 DeltaG-calculation.py sucrose 1 310 2 3500 
 
 computes the free energies of transfer for a protein in 1M sucrose, at 310 K (modelled using approach 2 as described in [2]) and 3 bar.
 
