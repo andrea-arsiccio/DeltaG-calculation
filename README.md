@@ -7,7 +7,7 @@ Usage:
 ./DeltaG-calculation.py osmolyte-type osmolyte-concentration T-value T-approach P
 
 where:
-osmolyte-type: can be sucrose, urea, TMAO, proline or betaine. In all cases, free-energy values extracted from the work by Auton, Bolen and coworkers are employed [4].
+osmolyte-type: can be sucrose, urea, TMAO, proline, betaine or none. In all cases, free-energy values extracted from the work by Auton, Bolen and coworkers are employed [4].
 
 osmolyte-concentration: concentration of the selected osmolyte, in M.
 
