@@ -74,7 +74,7 @@ where free energy of transfer values, in kJ/mol, are provided for each sidechain
 
 REFERENCES:
 
-[1] Arsiccio, Andrea; Ganguly, Pritam; Shea, Joan-Emma (2022): A Transfer Free Energy Based Implicit Solvent Model for Protein Simulations in Solvent Mixtures: Urea-Induced Denaturation as a Case Study. In The Journal of Physical Chemistry B. DOI: 10.1021/acs.jpcb.2c00889
+[1] Arsiccio, Andrea; Ganguly, Pritam; Shea, Joan-Emma (2022): A Transfer Free Energy Based Implicit Solvent Model for Protein Simulations in Solvent Mixtures: Urea-Induced Denaturation as a Case Study. In The Journal of Physical Chemistry B 126 (24), pp. 4472–4482. DOI: 10.1021/acs.jpcb.2c00889.
 
 [2] Arsiccio, Andrea; Shea, Joan-Emma (2021): Protein Cold Denaturation in Implicit Solvent Simulations: A Transfer Free Energy Approach. In The Journal of Physical Chemistry B 125 (20), pp. 5222–5232. DOI: 10.1021/acs.jpcb.1c01694.
 
